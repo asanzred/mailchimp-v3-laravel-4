@@ -23,9 +23,7 @@
         "illuminate/support": "4.2.*"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
+        "classmap": [],
         "psr-0": {
             "Asanzred\\Mailchimpv3\\": "src/"
         }

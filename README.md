@@ -21,7 +21,7 @@ Add the following to your composer.json
 ```json
 {
     "require": {
-        "asanzred/mailchimp-v3-laravel4": "dev-master"
+        "asanzred/mailchimpv3": "dev-master"
     }
 }
 ```
