@@ -1,13 +1,8 @@
 {
+    
     "name": "asanzred/mailchimpv3",
     "description": "Mailchimp API V3 API Wrapper for Laravel 4",
     "type": "library",
-    "authors": [
-        {
-            "name": "Alberto Sanz Redondo",
-            "email": "asanzred@gmail.com"
-        }
-    ],
     "keywords": [
         "laravel",
         "mailchimp",
@@ -16,6 +11,12 @@
         "v3"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Alberto Sanz Redondo",
+            "email": "asanzred@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~6.0",
