@@ -9,10 +9,6 @@
     * [Behind Proxy](#behind-proxy)
 * [Examples](#examples)
     * [Collection object](#collection-object)
-    * [Create lists](#create-lists)
-    * [Subresources](#subresources)
-    * [Proxy](#proxy)
-* [Further documentation](#further-documentation)
 
 
 # Installation
