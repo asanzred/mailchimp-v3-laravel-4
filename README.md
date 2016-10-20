@@ -1,6 +1,5 @@
 # Mailchimp API V3 API Wrapper for Laravel 4
 
-
 * [Installation](#installation)
 * [Usage](#usage)
     * [Pagination](#pagination)
@@ -9,6 +8,7 @@
     * [Behind Proxy](#behind-proxy)
 * [Examples](#examples)
     * [Collection object](#collection-object)
+
 
 
 # Installation
